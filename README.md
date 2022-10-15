@@ -15,11 +15,11 @@
 
 ## **Problem Statement**
 
-During lockdown, students faced a lot of problem arranging books. So, they had to turn towards online material which included ebooks. Finding eBooks links lead to many scams/viruses/spam mails from different sites. Buying books from online sites is risky, tends to many frauds and it is not recommended.
+During lockdown, students faced a lot of problem arranging books. So, they had to turn towards online material which included ebooks. Finding eBooks links lead to many scams/viruses/spam mails from different sites. Buying books from online sites is risky, tends to many frauds and it is not recommended.🤦🏻‍♂️
 
 ## **Solution**
 
-Using Google books API we have designed an app that opens desired books by the student by using a simple search mechanism. By using this method we are protected from any kind of scam/virus and the user is protected as Google books API is a trusted source for all ebooks. It has a wide library of of books which are included in syllabus. Nowadays it also has the option of audio books which will help students study from home. This will lead to saving of paper and other resources used to print books.
+Using Google books API we have designed an app that opens desired books by the student by using a simple search mechanism. By using this method we are protected from any kind of scam/virus and the user is protected as Google books API is a trusted source for all ebooks. It has a wide library of of books which are included in syllabus. Nowadays it also has the option of audio books which will help students study from home. This will lead to saving of paper and other resources used to print books.🤩
 
 ## **Screenshots**
 ### **Light**
@@ -45,4 +45,4 @@ The App has a very simple and interactive interface which helps the students sea
 
 The app is currently in the Alpha testing phase with BBSBEC campus with a limited no. of users. You can access the pre-release of our app from [releases](https://github.com/gdsc-bbsbec/GBooks/releases/) section.
 
-Once the app is fully tested and functional in BBSBEC campus, we plan to talk to neighboring colleges also to propose this app idea and collaborate with them on this app. Also we are planning to host a github repository for wildcard entries of the eBooks, notes, study materials, magazines by teachers and students and the app will include the search results from that repo as well.
+Once the app is fully tested and functional in BBSBEC campus, we plan to talk to neighboring colleges also to propose this app idea and collaborate with them on this app. Also we are planning to host a github repository for wildcard entries of the eBooks, notes, study materials, magazines by teachers and students and the app will include the search results from that repo as well.✨
