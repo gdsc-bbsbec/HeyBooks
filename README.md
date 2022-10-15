@@ -7,7 +7,7 @@
 
 <p> A simple android app written in Kotlin using Jetpack Compose to read books.<br></p>
 
-<a href="https://github.com/gdsc-bbsbec/gbooks/actions/workflows/android.yml"><img src="https://github.com/gdsc-bbsbec/gbooks/actions/workflows/android.yml/badge.svg" alt="Github Actions Status"></a> <a href="https://github.com/gdsc-bbsbec/GBooks/releases/tag/v0.1-alpha"><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/gdsc-bbsbec/gbooks?include_prereleases&style=plastic"></a> <a href="https://github.com/gdsc-bbsbec/gbooks/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/gdsc-bbsbec/gbooks/total?style=plastic"></a> <a href="https://github.com/gdsc-bbsbec/gbooks/tree/master/LICENSE.md"><img alt="GitHub" src="https://img.shields.io/github/license/gdsc-bbsbec/gbooks?style=plastic"></a>
+<a href="https://github.com/gdsc-bbsbec/gbooks/actions/workflows/android.yml"><img src="https://github.com/gdsc-bbsbec/gbooks/actions/workflows/android.yml/badge.svg" alt="Github Actions Status"></a> <a href="https://github.com/gdsc-bbsbec/GBooks/releases/tag/v0.1-alpha"><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/gdsc-bbsbec/gbooks?include_prereleases&style=plastic"></a> <a href="https://github.com/gdsc-bbsbec/gbooks/releases"></a> <a href="https://github.com/gdsc-bbsbec/gbooks/tree/master/LICENSE.md"><img alt="GitHub" src="https://img.shields.io/github/license/gdsc-bbsbec/gbooks?style=plastic"></a>
 
 ---
 
