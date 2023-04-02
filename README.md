@@ -47,3 +47,10 @@ The app is currently in the Alpha testing phase with BBSBEC campus with a limite
 
 Once the app is fully tested and functional in BBSBEC campus, we plan to talk to neighboring colleges also to propose this app idea and collaborate with them on this app. Also we are planning to host a github repository for wildcard entries of the eBooks, notes, study materials, magazines by teachers and students and the app will 
 include the search results from that repo as well.✨
+   
+##  Wanna Contribute? 🚀
+  You can contribute by doing one of the following:
+  - Starring the repository ⭐
+  - Forking the repository 🍴
+  - Creating an Issue ❌
+  - Creating a Pull Request ✔
