@@ -49,7 +49,7 @@ Once the app is fully tested and functional in BBSBEC campus, we plan to talk to
 include the search results from that repo as well.✨
    
 ##  Wanna Contribute? 🚀
-  You can contribute by doing one of the following:
+  You can contribute by doing one of the following
   - Starring the repository ⭐
   - Forking the repository 🍴
   - Creating an Issue ❌
